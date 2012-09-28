@@ -1,0 +1,11 @@
+blog
+files
+navigation
+pages
+session
+settings
+streams
+theme
+user
+variables
+widgets
